@@ -5,6 +5,6 @@ Just copy this program to your computer and run it using the command line... bef
 
 Example:
 ```
-path/to/magickball.rb
-Definitely yes
+1 - Find file using command line : path/to/magickball.rb
+2 - Get answer: Definitely yes
 ```
