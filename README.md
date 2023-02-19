@@ -4,7 +4,12 @@ This program is written in Ruby, it allows you to get answers to all your questi
 Just copy this program to your computer and run it using the command line... before launching, don't forget to ask your question.
 
 Example:
+
+1. Find file using command line and push Enter:
 ```
-1 - Find file using command line and push Enter: path/to/magickball.rb
-2 - Get answer: Definitely yes
+path/to/magickball.rb
+```
+2. Get an answer:
+```
+Definitely yes
 ```
