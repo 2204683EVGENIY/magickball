@@ -7,7 +7,7 @@ Example:
 
 1. Find file using command line and push Enter:
 ```
-C:\Users\Alex>path/to/magickball.rb
+C:\Users\Alex>path\to\magickball.rb
 ```
 2. Get an answer:
 ```
