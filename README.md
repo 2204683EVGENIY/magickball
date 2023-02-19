@@ -5,11 +5,11 @@ Just copy this program to your computer and run it using the command line... bef
 
 Example:
 
-1. Find file using command line and push Enter:
+Find file using command line:
 ```
-C:\Users\Alex>path\to\magickball.rb
+ruby magickball.rb
 ```
-2. Get an answer:
+Response example:
 ```
 Definitely yes
 ```
